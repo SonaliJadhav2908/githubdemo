@@ -23,4 +23,4 @@ def square(x):
 	pass 
 	
 def cube(s):
-	pass 
+	return x*x*x           # on feature branch
