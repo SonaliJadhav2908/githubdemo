@@ -20,7 +20,7 @@ def divide(x,y):
 
 #Sqaure implementation
 def square(x):
-	pass 
+	return x*x 
 	
 def cube(s):
 	pass 
