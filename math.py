@@ -21,6 +21,6 @@ def divide(x,y):
 #Sqaure implementation
 def square(x):
 	pass 
-	
+#cube implementation	
 def cube(s):
 	pass 
